@@ -1,3 +1,4 @@
+package Teste01;
 import java.util.Scanner;
 
 public class Grafo {
