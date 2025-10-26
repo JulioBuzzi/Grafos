@@ -161,7 +161,7 @@ class BuscaProfundidade {
 
 }
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String nomeArquivo = "";
